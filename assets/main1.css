@@ -1,0 +1,50 @@
+html,body{
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+body { 
+			background: url("gift1.jpeg") ;
+			background-position: center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+		
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.btn{
+	margin-left: 20%;
+
+}
+#last_name{
+	color: white;
+	font-size: 20px;
+	margin-left: 70%;
+	margin-top: 20px;
+}
+#textarea1{
+	color: white;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 30%;
+}
+#l1{
+margin-left: 30%;
+color: white;
+	font-size: 22px;
+}
+#l2{
+margin-left: 70%;
+color: white;
+	font-size: 22px;
+}
+
+h1{
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	text-align: center;
+}
